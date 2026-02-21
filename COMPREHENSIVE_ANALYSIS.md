@@ -376,7 +376,7 @@ colors: {
 ```javascript
 // In multiple files:
 const firebaseConfig = {
-  apiKey: "AIzaSyCLafxMmbSanvmgP9KPvWXO7968BgkSMAQ",
+  apiKey: "",
   // ... other config
 };
 ```
@@ -795,3 +795,4 @@ SkillXchange is a **well-designed, feature-rich platform** with significant pote
 *Analysis completed: January 29, 2026*
 *Analyzed by: GitHub Copilot*
 *Version: 1.0*
+
